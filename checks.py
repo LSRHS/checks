@@ -4,4 +4,4 @@ import cs50
 
 def exists():
   """ application.py exists """
-  check50.exists("application.py")
+  check50.exists("./application.py")
