@@ -1,5 +1,7 @@
 check50:
   checkme.py
 
-submit50: true
+submit50:
+  files:
+   - !require "deep_thought.py"
   
