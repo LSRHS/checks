@@ -1,5 +1,5 @@
-submit50: true
-
 check50:
   checkme.py
+
+submit50: true
   
