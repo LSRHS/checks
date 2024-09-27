@@ -1,5 +1,6 @@
 check50:
-  checkme.py
+  files:
+   - !require "deep_thought.py"
 
 submit50:
   files:
